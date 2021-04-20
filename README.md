@@ -1,5 +1,5 @@
 # Frac
-Frac visualizations 
+PRC and chem additives plot from ASCII (1 sec) data 
 
 
 ![image](https://user-images.githubusercontent.com/45947172/114668237-bab35900-9cbd-11eb-919f-d3a68a284ca0.png)
